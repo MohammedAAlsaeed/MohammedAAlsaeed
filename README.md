@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/34412877/README.1.md)
 <!-- GitHub Profile README | Mohammed Alsaeed -->
 <div align="center">
 
@@ -71,15 +70,15 @@ A secure enterprise attendance platform with **Single Sign-On (SSO)**, helping o
 <td width="50%" valign="top">
 
 ### 🏛️ SOOR — Architecture & Design
-**Independent Full-Stack Project**
+**Independent Project · Public React Implementation**
 
-A bilingual digital experience for architectural design, interiors, furnishing, and project services, helping clients explore offerings and submit structured project inquiries.
+A digital experience for architectural design, interiors, furnishing, and project services, helping clients explore offerings and submit inquiries.
 
 **Focus:** Responsive design, reusable components, content workflows, and full-stack architecture.
 
-`Next.js` `React` `Tailwind CSS` `Laravel` `PostgreSQL`
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
 
-<sub>Some administrative and backend capabilities may be in development.</sub>
+[Public SOOR repository](https://github.com/MohammedAAlsaeed/soor-architectural-visions) · <sub>This public implementation is separate from any Next.js/Laravel work.</sub>
 </td>
 </tr>
 <tr>
@@ -109,12 +108,12 @@ An LSTM-based machine learning project exploring cryptocurrency price forecastin
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Globe — Image-to-Globe Projection
+### 🌐 Globe / Al-Idrisi Atelier — Cartography & Globe Design
 **Open-Source Project · [View Repository](https://github.com/MohammedAAlsaeed/Globe)**
 
-A creative mapping project exploring how to **turn flat images into globe-ready visuals using gores projection** — the segmented map layout used to wrap imagery around a spherical surface.
+A bilingual cartography workspace with a **map editor** and **globe-print preparation studio**. It transforms map imagery into printable globe gores, with 3D preview, configurable print layouts, and PDF/SVG/PNG exports.
 
-**Focus:** Map imagery, geographic visualization, and image-to-globe workflows.
+**Engineering:** Next.js 16, TypeScript, Three.js, Web Workers, Laravel API, PostgreSQL, and Arabic/English localization.
 
 [**Explore Globe on GitHub →**](https://github.com/MohammedAAlsaeed/Globe)
 </td>
@@ -139,7 +138,7 @@ I also explore interactive experiences and game production. During a game develo
 
 <div align="center">
 
-<img alt="Mohammed's GitHub activity statistics" width="66%" src="https://ghstats.dev/api/card?username=MohammedAAlsaeed&theme=tokyonight" />
+<img alt="Mohammed's GitHub activity statistics" width="66%" src="https://github-readme-stats.vercel.app/api?username=MohammedAAlsaeed&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img alt="GitHub contribution streak" width="66%" src="https://streak-stats.demolab.com/?user=MohammedAAlsaeed&theme=tokyonight&hide_border=true" />
 
