@@ -1,161 +1,77 @@
-<!-- GitHub Profile README | Mohammed Alsaeed -->
-<div align="center">
+# Mohammed Alsaeed
 
-<img width="100%" alt="Mohammed Alsaeed — Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090E1A,45:142A49,100:5B36A8&text=Mohammed%20Alsaeed&fontColor=FFFFFF&fontSize=47&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" />
+**Software Engineer · Frontend & Full-Stack Development**  
+Riyadh, Saudi Arabia
 
-### أهلًا وسهلًا 👋 | Welcome to my digital workspace
+[LinkedIn](https://www.linkedin.com/in/mohammed-alsaeed-42a9b02b5) · [Email](mailto:mmooalsaeed@gmail.com) · [GitHub](https://github.com/MohammedAAlsaeed)
 
-<a href="https://readme-typing-svg.demolab.com/demo/"><img alt="Animated developer headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1100&color=51D9E8&center=true&vCenter=true&width=700&lines=Building+scalable+enterprise+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;From+thoughtful+UI+to+reliable+APIs;Always+learning%2C+always+building" /></a>
+I develop web applications that make complex workflows easier to use and maintain. My primary work is in **React, Next.js, and TypeScript**, with experience building enterprise interfaces, integrating APIs, and designing for both Arabic and English users.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alsaeed-42a9b02b5)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-1D9E89?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmooalsaeed@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAAlsaeed)
+I care about clear architecture, reliable behavior, and interfaces that hold up beyond the first release.
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=MohammedAAlsaeed&style=flat-square&color=17b6c9&label=Profile+Views" />
+## Experience
 
-</div>
+**Frontend Developer — Tamkeen Technologies**
 
-## 👨‍💻 About Me | نبذة عني
+Working on enterprise products with a focus on attendance and workforce-management workflows. My work involves:
 
-I'm a **Software Engineer and Frontend Developer** based in Saudi Arabia, focused on turning complex business requirements into **fast, accessible, and maintainable web experiences**.
+- Interfaces for schedules, attendance records, reports, and operational dashboards.
+- Role- and permission-aware experiences, including organization and department-level access.
+- API integration, data-intensive views, form validation, and reusable components.
+- Arabic localization, right-to-left layouts, and cross-browser behavior.
 
-I work with **React, Next.js, and TypeScript** on enterprise interfaces, including attendance management, permission-aware dashboards, API integrations, and bilingual experiences. I also enjoy working across the stack with **Laravel, Node.js, and databases**.
+The work is developed in company repositories; proprietary source code is not included here.
 
-> **بالعربي:** أؤمن أن جودة البرمجيات لا تُقاس بالشكل فقط، بل بسهولة استخدامها، وأدائها، وقابليتها للتوسع والصيانة.
+## Selected projects
 
-- 🏢 **Frontend Developer** at **Tamkeen Technologies** — enterprise applications and attendance workflows.
-- 🧩 Interested in **frontend architecture**, reusable components, performance, and developer experience.
-- 🧪 Working with **React Testing Library** and **Playwright** for UI testing.
-- 🤖 Using **Claude** and **OpenAI Codex** as AI-assisted development tools.
-- 🎮 Also interested in **game development**, **Unity**, and **3D technical art**.
-- 🌍 **Arabic / English** — with special attention to localization and RTL interfaces.
+### [Al-Idrisi Atelier](https://github.com/MohammedAAlsaeed/Globe)
+**Cartography, map editing, and globe-print preparation**
 
-## 🛠️ Tech Stack | أدواتي التقنية
+A bilingual application for working with map imagery and preparing printable globes. It includes layered map editing, a 3D globe preview, image reprojection into printable gores, and PDF, SVG, and PNG export.
 
-<div align="center">
+**Stack:** Next.js, TypeScript, Three.js, Web Workers, Laravel, PostgreSQL.  
+[Repository and technical documentation](https://github.com/MohammedAAlsaeed/Globe)
 
-**Frontend**
+### [ERP](https://github.com/MohammedAAlsaeed/ERP)
+**Arabic-first business management interface**
 
-<img alt="React Next.js TypeScript JavaScript Tailwind HTML CSS" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
+An RTL dashboard covering customers, inventory, invoices, suppliers, employees, and financial reporting. The frontend currently uses seeded in-memory data through Next.js route handlers; the Laravel backend is a separate workstream.
 
-**Backend & Data**
+**Stack:** Next.js, TypeScript, Tailwind CSS, TanStack Query, React Hook Form, Zod, Recharts.  
+[Repository](https://github.com/MohammedAAlsaeed/ERP)
 
-<img alt="Laravel PHP Node.js PostgreSQL MySQL MongoDB Redis" src="https://skillicons.dev/icons?i=laravel,php,nodejs,postgres,mysql,mongodb,redis&theme=dark" />
+### [SOOR — Architectural Visions](https://github.com/MohammedAAlsaeed/soor-architectural-visions)
+**Website for architectural and interior-design services**
 
-**Tools, Testing & Creative**
+A responsive, client-facing web experience for presenting services, projects, and business information.
 
-<img alt="Git GitHub GitLab Docker Postman Figma Unity Blender" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,unity,blender&theme=dark" />
+**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui.  
+[Repository](https://github.com/MohammedAAlsaeed/soor-architectural-visions)
 
-</div>
+### [Bitcoin Price Prediction](https://github.com/MohammedAAlsaeed/LSTM)
+**Computer science graduation project**
 
-**Everyday engineering:** TanStack React Query · REST APIs · Axios · React Hook Form · Zod · Authentication / SSO · RBAC · i18n / RTL · React Testing Library · Playwright · Agile / Scrum
+An experimental LSTM model trained on historical Bitcoin prices, with sequence-based forecasting and evaluation using MAE, RMSE, and MAPE. The repository documents the methodology and its evaluation limitations.
 
-## 🚀 Selected Work | أبرز أعمالي
+**Stack:** Python, TensorFlow/Keras, pandas, scikit-learn.  
+[Repository](https://github.com/MohammedAAlsaeed/LSTM)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Technical background
 
-### 🕘 Enterprise Attendance Platform
-**Tamkeen Technologies · Professional Work**
+| Area | Technologies and practices |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Application development | TanStack Query, React Hook Form, Zod, REST APIs, authentication, RBAC |
+| Backend and data | Laravel, PHP, Node.js, PostgreSQL, MySQL, Redis |
+| Quality and delivery | Git, Docker, ESLint, React Testing Library, Playwright |
+| Internationalization | Arabic/English, i18n, RTL interfaces, accessibility |
 
-A secure enterprise attendance platform with **Single Sign-On (SSO)**, helping organizations manage check-ins and check-outs, shift schedules, attendance reports, and workforce insights.
+## Beyond web development
 
-**Highlights:** Permission-aware dashboards, department-level access, advanced filtering, bilingual Arabic/English UX.
+I also work with interactive media and 3D tools. During the National Film and Television School's indie games development program, I contributed as a **3D Technical Artist** to a collaborative Unity project, working with a team of developers based in the UK.
 
-`Next.js` `React` `TypeScript` `React Query` `REST APIs`
-
-<sub>Professional project — source code is not publicly linked.</sub>
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ SOOR — Architecture & Design
-**Independent Project · Public React Implementation**
-
-A digital experience for architectural design, interiors, furnishing, and project services, helping clients explore offerings and submit inquiries.
-
-**Focus:** Responsive design, reusable components, content workflows, and full-stack architecture.
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
-
-[Public SOOR repository](https://github.com/MohammedAAlsaeed/soor-architectural-visions) · <sub>This public implementation is separate from any Next.js/Laravel work.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 Jira-Inspired Task Board
-**Full-Stack Learning Project**
-
-A project and issue management application with board workflows, authentication, API integration, and a React frontend connected to a Laravel backend.
-
-`React` `Laravel` `REST APIs` `MySQL / SQL`
-
-<sub>Repository link can be added when publicly available.</sub>
-</td>
-<td width="50%" valign="top">
-
-### 📈 Bitcoin Price Prediction
-**Computer Science Graduation Project**
-
-An LSTM-based machine learning project exploring cryptocurrency price forecasting from historical market data.
-
-`Python` `TensorFlow / Keras` `LSTM`
-
-[Explore the LSTM repository](https://github.com/MohammedAAlsaeed/LSTM)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Globe / Al-Idrisi Atelier — Cartography & Globe Design
-**Open-Source Project · [View Repository](https://github.com/MohammedAAlsaeed/Globe)**
-
-A bilingual cartography workspace with a **map editor** and **globe-print preparation studio**. It transforms map imagery into printable globe gores, with 3D preview, configurable print layouts, and PDF/SVG/PNG exports.
-
-**Engineering:** Next.js 16, TypeScript, Three.js, Web Workers, Laravel API, PostgreSQL, and Arabic/English localization.
-
-[**Explore Globe on GitHub →**](https://github.com/MohammedAAlsaeed/Globe)
-</td>
-<td width="50%" valign="top">
-
-### ✨ Building at the intersection of design & engineering
-
-I enjoy projects that combine **interactive interfaces, visual tools, and creative problem-solving** — from enterprise software to maps, 3D experiences, and game development.
-
-> **من الفكرة إلى تجربة تفاعلية.**
-</td>
-</tr>
-</table>
-
-## 🎮 Beyond Web Development | خارج عالم الويب
-
-I also explore interactive experiences and game production. During a game development training program, I worked as a **3D Technical Artist** on a collaborative Unity project, contributing to environment and asset production alongside an international team.
-
-`Unity` · `Blender` · `C#` · `Unreal Engine` · `3D Art`
-
-## 📊 GitHub Activity | نشاطي البرمجي
-
-<div align="center">
-
-<img alt="Mohammed's GitHub activity statistics" width="66%" src="https://github-readme-stats.vercel.app/api?username=MohammedAAlsaeed&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img alt="GitHub contribution streak" width="66%" src="https://streak-stats.demolab.com/?user=MohammedAAlsaeed&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> **Note:** Some professional work lives in private company repositories, so public GitHub statistics do not represent all my development activity.
+My interests in mapping, game development, and visual tools often inform how I approach interaction design on the web.
 
 ---
 
-<div align="center">
-
-### 🤝 Let's build something meaningful | لنبنِ شيئًا يستحق
-
-*Great software starts with understanding the problem — and grows through thoughtful engineering.*
-
-[**Connect on LinkedIn**](https://www.linkedin.com/in/mohammed-alsaeed-42a9b02b5) · [**Get in touch**](mailto:mmooalsaeed@gmail.com)
-
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090E1A,45:142A49,100:5B36A8" />
-
-</div>
+**Contact:** [LinkedIn](https://www.linkedin.com/in/mohammed-alsaeed-42a9b02b5) · [mmooalsaeed@gmail.com](mailto:mmooalsaeed@gmail.com)
